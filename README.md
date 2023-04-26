@@ -11,7 +11,7 @@
 ![semaforo](https://i.gyazo.com/fd306af2908c0f05be424a1e138b642c.png "semáforo")
 
 ## Descripción
-Ayuda a que la gente con ciega pueda identificar que color 
+Este semáforo ayuda a que las personas ciegas puedan identificar que color esta el led.
 
 ## Función principal
 
