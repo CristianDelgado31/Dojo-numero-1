@@ -35,7 +35,7 @@ Muestra de como se conforma el codigo:
   delay(500);
 ```
 
-## Link del proyecto 🚦
+## Link del proyecto :vertical_traffic_light:
 * [proyecto](https://www.tinkercad.com/things/dgq2oux0nnQ?sharecode=_1RQx2QgV9fmdtxc5UsD5-yn9UekD7Xsmg8jOOh2Lts)
 
 
