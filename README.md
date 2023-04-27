@@ -1,5 +1,6 @@
 # Documentación Dojo Número Uno
----
+
+![portada](https://i.gyazo.com/dc9a24c2f549c103147ae4d401b4fedb.png)
 ## Integrantes
 * Delgado Cristian
 * Deniz Lucas
@@ -41,6 +42,6 @@ Muestra de como se conforma el codigo:
 
 ## Fuentes
 * [tutorial markdown](https://www.youtube.com/watch?v=oxaH9CFpeEE)
-
+* [emojis](https://gist.github.com/rxaviers/7360908)
 
 
