@@ -1,6 +1,6 @@
 # Documentación Dojo Número Uno
 
-![portada](https://i.gyazo.com/dc9a24c2f549c103147ae4d401b4fedb.png)
+![portada](https://i.gyazo.com/dc9a24c2f549c103147ae4d401b4fedb.png "portada")
 ## Integrantes
 * Delgado Cristian
 * Deniz Lucas
